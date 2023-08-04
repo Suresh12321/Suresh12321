@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Security.
 - 🌱 I’m currently learning about programming languages.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  insta id - suresh.____
+- 📫 How to reach me
 
 <!---
 Suresh12321/Suresh12321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
