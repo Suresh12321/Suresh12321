@@ -5,8 +5,6 @@
 - 📫 How to reach me
 
 
-<p align="left">
-<a href="https://www.linkedin.com/in/sureshkumar-choudhary-6aa2ba24b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sureshkumar Choudhary | LinkedIn" width="125px"/></a>
 </p>
 
 <!---
